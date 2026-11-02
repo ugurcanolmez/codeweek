@@ -11,4 +11,8 @@ Bursa'nın değerlerini kodlama ile oyun oynayarak öğreten, tarayıcıda çal�
 
 Kurulum gerektirmez: `index.html` dosyasını açmanız yeterlidir. GitHub Pages ile yayınlamak için **Settings → Pages → Branch: main / (root)** seçin.
 
+## Canva Sınıfı Rezervasyon Sistemi
+
+BTSO Eğitim Vadisi Canva Sınıfı için gerçek zamanlı randevu ve doluluk takvimi: [`canva-sinifi/`](canva-sinifi/) · Kurulum: [`canva-sinifi/KURULUM.md`](canva-sinifi/KURULUM.md)
+
 Bursa İl Millî Eğitim Müdürlüğü · YEĞİTEK Hizmetleri Şubesi · Maarifin Kalbinde Oyun
